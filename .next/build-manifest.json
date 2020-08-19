@@ -1,0 +1,55 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.a92a05c8145c7fbde2df.js",
+      "static/runtime/main-8cab59ad06b917f85527.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.a92a05c8145c7fbde2df.js",
+      "static/runtime/main-8cab59ad06b917f85527.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.a92a05c8145c7fbde2df.js",
+      "static/runtime/main-8cab59ad06b917f85527.js"
+    ],
+    "/account": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.a92a05c8145c7fbde2df.js",
+      "static/runtime/main-8cab59ad06b917f85527.js"
+    ],
+    "/cart": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.a92a05c8145c7fbde2df.js",
+      "static/runtime/main-8cab59ad06b917f85527.js"
+    ],
+    "/create": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.a92a05c8145c7fbde2df.js",
+      "static/runtime/main-8cab59ad06b917f85527.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.a92a05c8145c7fbde2df.js",
+      "static/runtime/main-8cab59ad06b917f85527.js"
+    ],
+    "/login": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.a92a05c8145c7fbde2df.js",
+      "static/runtime/main-8cab59ad06b917f85527.js"
+    ],
+    "/product": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.a92a05c8145c7fbde2df.js",
+      "static/runtime/main-8cab59ad06b917f85527.js"
+    ],
+    "/signup": [
+      "static/runtime/webpack-035ac2b14bde147cb4a8.js",
+      "static/chunks/commons.a92a05c8145c7fbde2df.js",
+      "static/runtime/main-8cab59ad06b917f85527.js"
+    ]
+  }
+}
