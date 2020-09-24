@@ -1,7 +1,7 @@
 {
   "name": "react-reserve",
   "version": "1.0.0",
-  "description": "Project for MERN Stack - The Complete Guide",
+  "description": "Project for MERN Stack",
   "main": "index.js",
   "scripts": {
     "dev": "next",
